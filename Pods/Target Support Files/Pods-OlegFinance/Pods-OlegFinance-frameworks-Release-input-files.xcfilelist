@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-OlegFinance/Pods-OlegFinance-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CorePlot/CorePlot.framework
+${BUILT_PRODUCTS_DIR}/SwiftCharts/SwiftCharts.framework

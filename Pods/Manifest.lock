@@ -1,0 +1,20 @@
+PODS:
+  - CorePlot (2.3)
+  - SwiftCharts (0.6.5)
+
+DEPENDENCIES:
+  - CorePlot (~> 2.2)
+  - SwiftCharts (~> 0.6.1)
+
+SPEC REPOS:
+  trunk:
+    - CorePlot
+    - SwiftCharts
+
+SPEC CHECKSUMS:
+  CorePlot: 6bfe6d30d215beec3cfd18ee43e434620119bc1e
+  SwiftCharts: 2e755ea292f0b87d3e4b2c1eb5afc080a20cdc15
+
+PODFILE CHECKSUM: 05ba8c984395b9c181d17f8ef6aa93627bdb81ed
+
+COCOAPODS: 1.9.0.beta.2
